@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-I'm backend engineer with +2 yrs working experiences in telecommunication industry. Mostly use Go programming language.
+I'm backend engineer with educational background in civil/mechanical engineering. I have +2 yrs working experiences in telecommunication industry and mostly use Go programming language. Hold a Magister inżynier degree from a university in Poland.
 
 ## Link 🖇️
  - [freeCodeCamp](https://www.freecodecamp.org/ansuf)
