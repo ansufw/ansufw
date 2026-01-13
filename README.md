@@ -1,8 +1,5 @@
-+3 years experiences in Go Programming language
+## 🚀 What I Bring to the Table
 
-## What I Bring to the Table
-
-- Custom Fullstack Development: Building end-to-end web applications using Golang (Fiber) and Templ for high-performance, SEO-friendly interfaces. I can implement essential business features including secure Auth (Login/Register), RESTful APIs, and Payment Gateway integration for SaaS or eCommerce platforms.
-- High-Performance Static Websites: Developing elegant, ultra-fast static websites using Hugo. Perfectly suited for corporate profiles, blogs, or organizations that require top-tier security and near-instant loading speeds.
-- Reliable Deployment & Maintenance: Specialized in hosting applications on VPS (Virtual Private Servers) with a focus on stability. I provide automated backup systems, performance monitoring, and data privacy management to ensure your site stays online and secure.
-
+- **Fullstack Go & Templ:** Building high-performance, SEO-friendly web apps (SaaS, eCommerce) using **Echo** and **Templ** with secure Auth & Payment integration.
+- **Ultra-fast Static Sites:** Developing secure, elegant corporate websites and blogs using **Hugo** for near-instant loading speeds.
+- **Robust VPS Deployment:** End-to-end hosting on VPS, including automated backups, performance monitoring, and guaranteed data privacy.
